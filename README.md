@@ -1,4 +1,4 @@
-# Taller de IA para Mantenimiento Predictivo
+# Taller de IA para Mantenimiento Predictivo  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/MantenimientoPredictivo&file=TablaDeContenidos.mlx)
 
 ## Agenda
 La inteligencia artificial (IA) se está convirtiendo rápidamente en un componente crítico de muchos sistemas y disciplinas de ingeniería en la actualidad. En el campo del mantenimiento predictivo, la IA se está utilizando para diseñar y desarrollar formas más inteligentes de realizar la detección de anomalías, identificar fallos y estimar la vida útil restante de las máquinas.
